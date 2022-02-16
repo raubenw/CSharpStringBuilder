@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\bin\Debug\net6.0\StringBuider.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\bin\Debug\net6.0\StringBuider.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\bin\Debug\net6.0\StringBuider.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\bin\Debug\net6.0\StringBuider.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\bin\Debug\net6.0\ref\StringBuider.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\bin\Debug\net6.0\StringBuider.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\StringBuider.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\StringBuider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\StringBuider.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\StringBuider.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\StringBuider.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\StringBuider.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\ref\StringBuider.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\StringBuider.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\StringBuider\obj\Debug\net6.0\StringBuider.genruntimeconfig.cache
